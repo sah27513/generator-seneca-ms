@@ -31,7 +31,7 @@ Lead Maintainer: [Stephen Halliburton](mailto:sah27513@gmail.com)
 ## Installation
 
 - Make sure you have at least v10 of NodeJS installed, to install for [Mac OS](https://treehouse.github.io/installation-guides/mac/node-mac.html), [Windows](https://nodejs.org/en/download/), [Ubuntu](https://hackernoon.com/how-to-install-node-js-on-ubuntu-16-04-18-04-using-nvm-node-version-manager-668a7166b854)
-- Next, install [Yeoman](http://yeoman.io) and generator-projects using [npm](https://www.npmjs.com/) (we assume you have pre-installed [node.js](https://nodejs.org/)).
+- Next, install [Yeoman](http://yeoman.io) and generator-projects using [npm](https://www.npmjs.com/)
 
 ```bash
 npm install -g yo

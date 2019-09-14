@@ -9,7 +9,7 @@ module.exports = class SenecaCommon extends Generator {
     this.log(
       yosay(
         `Welcome to the praiseworthy ${chalk.red(
-          "generator-projects"
+          "generator-seneca-ms"
         )} generator!`
       )
     );
