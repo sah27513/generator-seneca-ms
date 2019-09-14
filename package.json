@@ -1,0 +1,30 @@
+{
+  "name": "generator-seneca-ms",
+  "version": "0.1.0",
+  "description": "Yeoman Generator for SenecaJS microservices",
+  "files": [
+    "generators"
+  ],
+  "scripts": {
+    "test": "jest -u"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sah27513/seneca-ms-generator.git"
+  },
+  "keywords": [
+    "yeoman-generator",
+    "SenecaJS",
+    "Yeoman",
+    "Code Generation"
+  ],
+  "author": "Stephen Halliburton",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sah27513/seneca-ms-generator/issues"
+  },
+  "homepage": "https://github.com/sah27513/seneca-ms-generator#readme",
+  "dependencies": {
+    "yeoman-generator": "^4.0.2"
+  }
+}
