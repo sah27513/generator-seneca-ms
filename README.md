@@ -8,7 +8,7 @@ Lead Maintainer: [Stephen Halliburton](mailto:sah27513@gmail.com)
 
 ---
 
-[![NPM version][npm-image][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url] [![Coverage percentage][coveralls-image]][coveralls-url]
+[![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url] [![Coverage percentage][coveralls-image]][coveralls-url]
 
 ## Table of Contents
 
@@ -85,7 +85,7 @@ Reach out to me at the following:
 
 MIT © [stephen halliburton]()
 
-[npm-image]: http://img.shields.io/npm/v/REPO.svg?style=flat
+[npm-image]: https://badge.fury.io/js/npm.svg
 [npm-url]: https://npmjs.org/package/generator-seneca-ms
 [travis-image]: https://travis-ci.com/sah27513/generator-seneca-ms.svg?branch=master
 [travis-url]: https://travis-ci.com/sah27513/generator-seneca-ms
