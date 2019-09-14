@@ -48,7 +48,7 @@ yo seneca-ms
 
 ### Clone
 
-- Clone this repo to your local machine using `git clone https://github.com/sah27513/asb-cli`
+- Clone this repo to your local machine using `git clone https://github.com/sah27513/generator-seneca-ms`
 
 ---
 
