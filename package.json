@@ -5,7 +5,34 @@
   "files": [
     "generators"
   ],
+  "lint-staged": {
+    "*.js": [
+      "eslint --fix",
+      "git add"
+    ],
+    "*.json": [
+      "prettier --write",
+      "git add"
+    ]
+  },
+  "eslintConfig": {
+    "extends": [
+      "xo",
+      "prettier"
+    ],
+    "env": {
+      "jest": true,
+      "node": true
+    },
+    "rules": {
+      "prettier/prettier": "error"
+    },
+    "plugins": [
+      "prettier"
+    ]
+  },
   "scripts": {
+    "pretest": "eslint .",
     "test": "jest -u"
   },
   "repository": {
@@ -24,7 +51,32 @@
     "url": "https://github.com/sah27513/seneca-ms-generator/issues"
   },
   "homepage": "https://github.com/sah27513/seneca-ms-generator#readme",
+  "engines": {
+    "npm": ">= 4.0.0"
+  },
+  "jest": {
+    "testEnvironment": "node",
+    "collectCoverage": true,
+    "collectCoverageFrom": [
+      "generators/**/*.js"
+    ]
+  },
   "dependencies": {
-    "yeoman-generator": "^4.0.2"
+    "chalk": "^2.4.2",
+    "yeoman-generator": "^4.0.2",
+    "yosay": "^2.0.2"
+  },
+  "devDependencies": {
+    "coveralls": "^3.0.6",
+    "eslint": "^6.4.0",
+    "eslint-config-prettier": "^6.3.0",
+    "eslint-config-xo": "^0.26.0",
+    "eslint-plugin-prettier": "^3.1.0",
+    "husky": "^3.0.5",
+    "jest": "^24.9.0",
+    "lint-staged": "^9.2.5",
+    "prettier": "^1.18.2",
+    "yeoman-assert": "^3.1.1",
+    "yeoman-test": "^2.0.0"
   }
 }
