@@ -91,5 +91,5 @@ MIT © [stephen halliburton]()
 [travis-url]: https://travis-ci.com/sah27513/generator-seneca-ms
 [daviddm-image]: https://david-dm.org/sah27513/generator-seneca-ms.svg?theme=shields.io
 [daviddm-url]: https://david-dm.org/sah27513/generator-seneca-ms
-[coveralls-image]: https://coveralls.io/repos/sah27513/generator-seneca-ms/badge.svg
-[coveralls-url]: https://coveralls.io/r/sah27513/generator-seneca-ms
+[coveralls-image]: https://coveralls.io/repos/github/sah27513/generator-seneca-ms/badge.svg?branch=master
+[coveralls-url]: https://coveralls.io/github/sah27513/generator-seneca-ms?branch=master
