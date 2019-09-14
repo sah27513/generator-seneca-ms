@@ -85,11 +85,11 @@ Reach out to me at the following:
 
 MIT © [stephen halliburton]()
 
-[npm-image]: https://badge.fury.io/js/generator-projects.svg
-[npm-url]: https://npmjs.org/package/generator-projects
-[travis-image]: https://travis-ci.com/sah27513/generator-projects.svg?branch=master
-[travis-url]: https://travis-ci.com/sah27513/generator-projects
-[daviddm-image]: https://david-dm.org/sah27513/generator-projects.svg?theme=shields.io
-[daviddm-url]: https://david-dm.org/sah27513/generator-projects
-[coveralls-image]: https://coveralls.io/repos/sah27513/generator-projects/badge.svg
-[coveralls-url]: https://coveralls.io/r/sah27513/generator-projects
+[npm-image]: https://badge.fury.io/js/generator-seneca-ms.svg
+[npm-url]: https://npmjs.org/package/generator-seneca-ms
+[travis-image]: https://travis-ci.com/sah27513/generator-seneca-ms.svg?branch=master
+[travis-url]: https://travis-ci.com/sah27513/generator-seneca-ms
+[daviddm-image]: https://david-dm.org/sah27513/generator-seneca-ms.svg?theme=shields.io
+[daviddm-url]: https://david-dm.org/sah27513/generator-seneca-ms
+[coveralls-image]: https://coveralls.io/repos/sah27513/generator-seneca-ms/badge.svg
+[coveralls-url]: https://coveralls.io/r/sah27513/generator-seneca-ms
