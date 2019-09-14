@@ -85,7 +85,7 @@ Reach out to me at the following:
 
 MIT © [stephen halliburton]()
 
-[npm-image]: https://npmjs.org/package/generator-seneca-ms.svg?branch=master
+[npm-image]: https://badge.fury.io/js/npm.svg
 [npm-url]: https://npmjs.org/package/generator-seneca-ms
 [travis-image]: https://travis-ci.com/sah27513/generator-seneca-ms.svg?branch=master
 [travis-url]: https://travis-ci.com/sah27513/generator-seneca-ms
