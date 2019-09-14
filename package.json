@@ -34,6 +34,7 @@
   "scripts": {
     "pretest": "eslint .",
     "precommit": "npm test",
+    "prepublish": "npm test",
     "test": "jest -u"
   },
   "repository": {
